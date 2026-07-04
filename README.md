@@ -1,20 +1,9 @@
-# yup-rev
+[![actions](https://github.com/yupsh/yup-rev/actions/workflows/actions.yml/badge.svg)](https://github.com/yupsh/yup-rev/actions/workflows/actions.yml)
+[![ci](https://github.com/yupsh/yup-rev/actions/workflows/ci.yml/badge.svg)](https://github.com/yupsh/yup-rev/actions/workflows/ci.yml)
+[![dockerfiles](https://github.com/yupsh/yup-rev/actions/workflows/dockerfiles.yml/badge.svg)](https://github.com/yupsh/yup-rev/actions/workflows/dockerfiles.yml)
+[![docs](https://github.com/yupsh/yup-rev/actions/workflows/docs.yml/badge.svg)](https://github.com/yupsh/yup-rev/actions/workflows/docs.yml)
+[![go](https://github.com/yupsh/yup-rev/actions/workflows/go.yml/badge.svg)](https://github.com/yupsh/yup-rev/actions/workflows/go.yml)
+[![release](https://github.com/yupsh/yup-rev/actions/workflows/release.yml/badge.svg)](https://github.com/yupsh/yup-rev/actions/workflows/release.yml)
+[![shell](https://github.com/yupsh/yup-rev/actions/workflows/shell.yml/badge.svg)](https://github.com/yupsh/yup-rev/actions/workflows/shell.yml)
 
-```
-NAME:
-   rev - reverse lines characterwise
-
-USAGE:
-   rev [OPTIONS] [FILE...]
-
-   The rev utility copies the specified files to standard output, reversing
-   the order of characters in every line. If no files are specified, standard
-   input is read.
-
-VERSION:
-   dev
-
-GLOBAL OPTIONS:
-   --help, -h  show help
-   --version   print version information and exit
-```
+[docs](https://yupsh.github.io/docs.repl/)
